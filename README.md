@@ -1,8 +1,9 @@
 <div align="center">
 
-# 🧭 AnnAI — The Control Plane for Critical Work
+#  AnnAI
 
 **An AI-powered platform for creating, visualizing, and monitoring intelligent workflows.**
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?logo=react&logoColor=white)](https://react.dev/)
@@ -19,8 +20,6 @@
 Most workflow automation tools require manual coding, live in disconnected apps, and give you no visibility into *why* an automated decision was made.
 
 **AnnAI** brings workflow creation, execution, and monitoring into one console — with explainability and risk detection built in.
-
-> ⚠️ **Note:** Workflow execution and AI decisions in this build are **simulated for demo purposes**. There's no live backend or model connected yet.
 
 
 ## ✨ Features
