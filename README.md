@@ -82,4 +82,4 @@ annai/
 
 ## 📄 License
 
-Licensed under the **MIT License** — see [LICENSE](./LICENSE).
+Licensed under the **MIT License**
